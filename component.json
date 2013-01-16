@@ -1,0 +1,13 @@
+{
+  "name": "title",
+  "repo": "component/title",
+  "description": "Manipulate the document title and reset",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
