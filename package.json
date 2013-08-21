@@ -2,7 +2,10 @@
   "name": "title",
   "description": "Manipulate the document title and reset",
   "version": "1.0.0",
-  "keywords": ["title", "document"],
+  "keywords": [
+    "title",
+    "document"
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
@@ -10,5 +13,9 @@
     "scripts": {
       "title/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/title.git"
   }
 }
